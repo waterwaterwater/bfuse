@@ -12,7 +12,7 @@
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
 </strong>.</p>
 
-<p>It is based on the Image <strong><%= System.getenv("BOXFUSE_IMAGE_COORDINATES")%>
+<p>It is  on the Image <strong><%= System.getenv("BOXFUSE_IMAGE_COORDINATES")%>
 </strong> generated from <strong><%= System.getenv("BOXFUSE_PAYLOAD_NAME")%>
 </strong></p>
 
